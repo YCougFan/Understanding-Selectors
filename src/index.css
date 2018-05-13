@@ -1,0 +1,37 @@
+section {
+    display:grid;
+    border-radius:25px;
+    border: 1px solid black;
+    margin: 50px 450px;
+    height: 500px
+
+
+}
+header {
+    background-color: red;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+
+
+}
+footer {
+    background-color: red;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+}
+p {
+    display:grid;
+    justify-content: center;
+    align-content: center;
+}
+#name {
+    font-size: 50px;
+}
+.hello {
+    font-size: 40px;
+    color: white;
+}
+.intro {
+    color: white;
+    font-size: 30px
+}

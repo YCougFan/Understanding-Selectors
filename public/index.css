@@ -1,0 +1,42 @@
+section {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background-color: red;
+    width: 500px;
+    border-radius:25px;
+    font-family: Arial;
+    text-align: center;
+
+}
+
+#name {
+    background-color: white;
+    width: 499px;
+    height: 200px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    font-size: 70px;
+}
+
+header  {
+    color: white;
+}
+
+
+footer {
+    color: red;
+    padding: 5px;
+}
+
+.hello {
+    padding-top: 10px;
+    font-size: 55px;
+}
+
+.intro {
+    padding: 0px 5px 10px 5px;
+    font-size: 25px;
+}
+
+
